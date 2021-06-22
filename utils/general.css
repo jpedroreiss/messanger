@@ -1,0 +1,8 @@
+p, h1, h2, h3, span, strong {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    background-color: black;
+}
