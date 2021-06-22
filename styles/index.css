@@ -1,0 +1,16 @@
+@import url("/utils/index.css");
+@import url("/styles/components/status-bar.css");
+@import url("/styles/components/chat.css");
+@import url("/styles/components/contact.css");
+@import url("/styles/components/buttons.css");
+@import url("/styles/components/emoticons.css");
+
+body {
+    position: relative;
+}
+
+.wallpaper {
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}
