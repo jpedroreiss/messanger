@@ -4,6 +4,7 @@
 @import url("/styles/components/contact.css");
 @import url("/styles/components/buttons.css");
 @import url("/styles/components/emoticons.css");
+@import url("/styles/components/camere.css");
 
 body {
     position: relative;
